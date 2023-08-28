@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JayaramRangaraj
+- 👋 Hi, I’m @Jayaram Rangaraj
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing B.Tech Information Technology
 
