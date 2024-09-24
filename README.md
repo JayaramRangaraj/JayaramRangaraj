@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Jayaram Rangaraj]
+# 👋 Hello, I'm Jayaram Rangaraj
 
 ## 🐍 Python Developer | 🛠 DevOps Enthusiast | 🏢 Odoo Specialist
 
