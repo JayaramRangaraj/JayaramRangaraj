@@ -1,32 +1,72 @@
-# 👋 Hello, I'm Jayaram Rangaraj
+# 👋 Hi, I'm Jayaram Rangaraj
 
-## 🐍 Python Developer | 🛠 DevOps Enthusiast | 🏢 Odoo Specialist
+## Python Developer | Odoo ERP Developer | Business Process Automation Specialist
 
-I'm a passionate Python developer with a strong background in DevOps practices and enterprise software development. My expertise lies in creating robust, scalable solutions that drive business success.
+I am a Python and Odoo developer with experience building, customizing, and maintaining enterprise-grade ERP solutions. I specialize in Odoo development, workflow automation, system integrations, data migration, and PostgreSQL optimization.
 
-### 🚀 What I do
+My focus is on delivering scalable business solutions that improve operational efficiency, automate manual processes, and support complex business requirements.
 
-- Develop and customize Odoo modules
-- Implement DevOps best practices and CI/CD pipelines
-- Create efficient Python-based solutions
-- Manage and optimize PostgreSQL databases
-- Work with XML for data interchange and configuration
-- Contribute to Java projects
+---
 
-### 💻 Tech Stack
+## 🚀 Expertise
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![DevOps](https://img.shields.io/badge/-DevOps-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)
-![XML](https://img.shields.io/badge/-XML-0A0A0A?style=flat-square&logo=xml&logoColor=white)
+### Odoo ERP Development
+- Custom module development
+- Workflow automation
+- Sales, Inventory, Purchase, and Accounting customizations
+- REST API integrations
+- Report development (PDF, Excel, QWeb)
+- Odoo version migrations and upgrades
 
-### 🌟 Key Strengths
+### Python Development
+- Backend application development
+- Automation scripts
+- Data processing and validation
+- API integrations
+- Business logic implementation
 
-- Bridging the gap between development and operations
-- Implementing efficient CI/CD pipelines
-- Delivering high-quality, scalable solutions
-- Optimizing database performance
-- Solving complex business challenges with technology
+### Database Management
+- PostgreSQL administration
+- Query optimization
+- Data migration and reconciliation
+- Performance tuning
 
+### DevOps & Deployment
+- Linux server administration
+- Git & version control workflows
+- CI/CD implementation
+- Docker-based deployments
+- Application monitoring and maintenance
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** Python, SQL, Java, XML
+- **ERP:** Odoo (v8 - v18)
+- **Database:** PostgreSQL
+- **Frontend:** HTML, CSS, JavaScript, Vue.js
+- **Tools:** Git, Docker, Linux, Nginx
+- **Reporting:** QWeb, XLSX, PDF Reports
+- **Integration:** REST APIs, Web Services
+
+---
+
+## 🌟 Highlights
+
+- Developed and maintained custom Odoo modules for enterprise clients.
+- Worked on large-scale Odoo migration projects and post-migration data validation.
+- Implemented GST and e-Invoicing integrations for Indian businesses.
+- Automated complex warehouse, inventory, and packing list workflows.
+- Optimized PostgreSQL queries and ERP reporting performance.
+- Built scalable business solutions using Python and Odoo frameworks.
+
+---
+
+## 📈 Current Focus
+
+- Advanced Odoo Development
+- Enterprise System Integrations
+- ERP Performance Optimization
+- DevOps Automation
+- Scalable Python Applications
